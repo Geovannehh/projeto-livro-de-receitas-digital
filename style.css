@@ -1,3 +1,7 @@
+:root{
+  font-family: "Alice", serif;
+}
+
 body{
   background-image: url(assets/bg.jpg);
   background-size: cover;
@@ -12,7 +16,6 @@ body{
   border-radius: 24px;
   margin: 48px auto;
 }
-
 
 img{
   border-radius: 16px;
